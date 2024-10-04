@@ -1,0 +1,34 @@
+
+# Node modules directory
+node_modules/
+
+# Dependency directories
+bower_components/
+
+# Log files
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE and editor specific files
+.vscode/
+.idea/
+
+# Local environment files
+.env
+*.local
+
+# Cache and build files
+dist/
+build/
+
+# Sass cache
+.sass-cache/
+
+# Temporary files
+*.tmp
+*.temp
