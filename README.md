@@ -61,7 +61,7 @@ To get a local copy of the project up and running, follow these steps:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Abhishek200-1/travel-blog-website.git
+git clone https://github.com/Abhishek200-1/Travel-Blog-Website.git
 cd travel-blog-website
 ```
 
